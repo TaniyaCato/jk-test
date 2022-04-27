@@ -1,1 +1,9 @@
-remote_theme : "manid2/lone-wolf-theme"
+remote_theme: "manid2/lone-wolf-theme"
+url: https://taniyacato.github.io/
+baseurl: /jk-test/ 
+title: Sketched By Taniya
+description: This is my Jekyll site. 
+instagram: "https://www.instagram.com/taniyyaaa/?hl=en"
+facebook: "https://www.facebook.com/profile.php?id=100010409977036"
+twiiter: "https://twitter.com/TaniyaLynee"
+author: Taniya Lynee Trinidad

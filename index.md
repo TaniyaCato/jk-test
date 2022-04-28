@@ -1,4 +1,4 @@
-Sketched By Taniya 
+## Welcome to GitHub Pages
 
 Displaying the site title: {{ site.title }}
 

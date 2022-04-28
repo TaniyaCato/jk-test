@@ -32,8 +32,9 @@ descprition: This is my site
       </div>
     </div>
   </div>
-    <div class="row">
+    
 <h2>My Gallery</h2>
+    <div class="row">
     <div class= "col-3 col-s-8">
     <img src="Owl.jpeg" alt="bird" width="200px" />
       </div>

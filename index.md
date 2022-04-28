@@ -40,16 +40,16 @@ descprition: This is my site
 
 <h2>My Gallery</h2>
     <div class="col">
-    <div class="col-3 col-s-8">
+    <div class="col-md-8">
     <img src="Owl.jpeg" alt="bird" width="200px" />
       </div>
-      <div class="col-3 col-s-8">
+      <div class="col-md-8">
         <img src="Moon.jpeg" alt="sky" width="200px" />
       </div>
-      <div class="col-3 col-s-8">
+      <div class="col-md-8">
         <img src="Girl.jpeg" alt="female" width="200px" />
       </div>
-      <div class="col-3 col-s-8">
+      <div class="col-md-8">
         <img src="Umbrella.jpeg" alt="artist" width="200px" height="300px"/>
       </div>
     </div>

@@ -32,8 +32,23 @@ descprition: This is my site
       </div>
     </div>
   </div>
-    
-  
+    <div class="row">
+<h2>My Gallery</h2>
+    <div class= col-3 col-s-8 >
+    <img src="Owl.jpeg" alt="bird" width="200px" />
+      </div>
+      <div class="col-3 col-s-8">
+        <img src="Moon.jpeg" alt="sky" width="200px" />
+      </div>
+      <div class="col-3 col-s-8">
+        <img src="Girl.jpeg" alt="female" width="200px" />
+      </div>
+      <div class="col-3 col-s-8">
+        <img src="Umbrella.jpeg" alt="artist" width="200px" height="300px"/>
+      </div>
+
   </body>
+  </div>
+  </div>
 
 

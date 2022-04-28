@@ -47,6 +47,7 @@ description: Get to know me!
         <a class="nav-link" href="https://www.instagram.com/taniyyaaa/?hl=en" /a>
     </li>
     </ul>
+   
     <!-- page footer -->
     {% include footer.html %}
   </div>

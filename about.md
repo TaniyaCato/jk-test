@@ -36,12 +36,17 @@ description: Get to know me!
     <!-- page header -->
     <!-- page content -->
     <main class="page-content" role="main">
-      <p> Feel free to reach out to me for an questions about sketching 
-      Facebook:Taniya Trinidad
-      Twitter:Taniya_Lynee
-      Intsagram: Taniyyaaa_
-      </p>
+      <p> Feel free to reach out to me for an questions about sketching</p>
     </main>
+    <ul class="Socials">
+    <li class="Facebook"
+        <a class="nav-link" href="https://www.facebook.com/profile.php?id=100010409977036"/a> 
+    <li class="Twitter">
+        <a class="nav-link" href="https://twitter.com/TaniyaLynee"/a>
+    <li class="Instagram"
+        <a class="nav-link" href="https://www.instagram.com/taniyyaaa/?hl=en" /a>
+    </li>
+    </ul>
     <!-- page footer -->
     {% include footer.html %}
   </div>

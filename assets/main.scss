@@ -1,7 +1,4 @@
 
----
-# Only the main Sass file needs front matter (the dashes are enough)
----
 
 // import custom variables and mixins to extend BS4
 @import "lone-wolf-theme";
@@ -48,4 +45,13 @@ body {
 
 *, *::before, *::after {
     box-sizing: border-box;
+}
+
+h1{
+  color: orangered;
+  text-align: center;
+}
+
+.home-page{
+  background-color: beige;
 }

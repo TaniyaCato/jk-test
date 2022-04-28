@@ -23,7 +23,7 @@ descprition: This is my site
 <body>
   <div class="container mt-2 mb-2">
     <div class="row">
-      <div class="col-sm">
+      <div class="col-sm-8">
         <h1>Welcome To My Site</h1>
       </div>
     </div>

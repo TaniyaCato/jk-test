@@ -1,5 +1,6 @@
-
 ## Welcome to GitHub Pages
+
+Displaying the site title: {{ site.title }}
 
 You can use the [editor on GitHub](https://github.com/TaniyaCato/jk-test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

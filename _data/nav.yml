@@ -1,10 +1,4 @@
 header:
-  - title: "Features"
-    url: "/features/"
-    description: "List of features in the theme"
-  - title: "Source"
-    url: "/source/"
-    description: "Theme source code"
-  - title: "About"
-    url: "/about/"
-    description: "A little story about the theme"
+  - title: "Contact"
+    url: "https://taniyacato.github.io/jk-test/about"
+    description: "This will show my contact info"

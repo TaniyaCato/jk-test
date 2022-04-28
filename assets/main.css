@@ -4,6 +4,6 @@
 //import custom variables and mixins to extend BS4
 @import "lone-wolf-theme";
 
-body{
+body {
     background-color: aqua;
 }

@@ -4,7 +4,7 @@ title: Contact
 description: Get to know me!
 ---
 
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="{{ site.lang | slice: 0,2 | default: "en" }}">
 
 {% include head.html %}

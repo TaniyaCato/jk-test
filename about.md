@@ -1,18 +1,17 @@
 ---
 layout: about
-title: About me 
+title: Contact
 description: Get to know me!
 ---
 
-# About Me 
 !DOCTYPE html>
 <html lang="{{ site.lang | slice: 0,2 | default: "en" }}">
 
 {% include head.html %}
 <head>
-<div class="about-page">
+<div class="home-page">
   <!-- home page header -->
-  <section class="about-page-header">
+  <section class="home-page-header">
     <div class="container text-center">
       <h1 class="animated fadeInDownBig">{{ page.title | default: 'HOME' }}</h1>
       <p> This Page is to showcase my sketches </p>
@@ -34,8 +33,6 @@ description: Get to know me!
 
     {% include head/favicon.html %}
     {% include head/styles.html %}
-
-
 
   <!-- page container -->
   <div class="page-container">

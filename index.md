@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: Welcome To My Site Sketchers
+title: Sketched By Taniya 
 descprition: This is my site 
 ---
 
@@ -17,6 +17,7 @@ descprition: This is my site
   </section>
 <head>
 <title> Sketched By Taniya </title>
+</head>
 <body>
   <div class="container mt-2 mb-2">
     <div class="row">
@@ -30,6 +31,8 @@ descprition: This is my site
       </div>
     </div>
   </div>
+
+  
   </body>
-</section>
+
 

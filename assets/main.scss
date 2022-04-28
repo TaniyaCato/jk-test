@@ -1,3 +1,5 @@
 ---
 ---
-@import "{{ manid2/lone-wolf-theme }}";
+
+// import custom variables and mixins to extend BS4
+@import "lone-wolf-theme";

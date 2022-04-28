@@ -34,8 +34,8 @@ descprition: This is my site
   </div>
     
 <h2>My Gallery</h2>
-    <div class="row">
-    <div class= "col-3 col-s-8">
+    <div class="col">
+    <div class="col-3 col-s-8">
     <img src="Owl.jpeg" alt="bird" width="200px" />
       </div>
       <div class="col-3 col-s-8">
@@ -50,6 +50,6 @@ descprition: This is my site
 
   </body>
   </div>
-  </div>
+  
 
 

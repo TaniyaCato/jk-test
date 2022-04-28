@@ -9,7 +9,7 @@ descprition: This is my site
   <section class="home-page-header">
     <div class="container text-center">
       <h1 class="animated fadeInDownBig">{{ page.title | default: 'HOME' }}</h1>
-      <p class="lead">{{ page.excerpt | default: 'Welcome Sketchers' }}</p>
+      <p class="lead">{{ page.excerpt | default: 'By: Taniya Trinidad' }}</p>
       {%- if page.action -%}
         {%- include home-action-btn.html action_btn=action_btn dropdown=dropdown dropdown_items=dropdown_items -%}
       {%- endif -%}

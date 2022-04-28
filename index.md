@@ -2,17 +2,9 @@
 layout: default 
 title: Sketched By Taniya 
 descprition: This is my site 
+
 ---
-header:
-  - title: "Features"
-    url: "/features/"
-    description: "List of features in the theme"
-  - title: "Source"
-    url: "/source/"
-    description: "Theme source code"
-  - title: "About"
-    url: "/about/"
-    description: "A little story about the theme"
+
 
 <div class="home-page">
   <!-- home page header -->

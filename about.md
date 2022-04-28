@@ -36,7 +36,7 @@ description: Get to know me!
     <!-- page header -->
     <!-- page content -->
     <main class="page-content" role="main">
-      {{ content }}
+      <p> Feel free to reach out to me for an questions about sketching </p>
     </main>
     <!-- page footer -->
     {% include footer.html %}

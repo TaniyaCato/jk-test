@@ -32,7 +32,9 @@ descprition: This is my site
       </div>
     </div>
   </div>
-    
+        <p>These sketches I've done are just apart of my imagination, extremely random . Just something I tend to do from here and there. Just me in my own world. Sketching releases me and calms me down whenever I'm in a stress state of mind. If you wanna start sketching and have any questions for me, feel free to click on my contact link above, via email. You can also click the link below to bring you down to my gallery section of the page.
+        Now Enjoy a peek into my gallery!!!</p>
+
 <h2>My Gallery</h2>
     <div class="col">
     <div class="col-3 col-s-8">
@@ -47,7 +49,6 @@ descprition: This is my site
       <div class="col-3 col-s-8">
         <img src="Umbrella.jpeg" alt="artist" width="200px" height="300px"/>
       </div>
-
   </body>
   </div>
   

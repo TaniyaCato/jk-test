@@ -34,7 +34,7 @@ description: Get to know me!
     </div>
     </div>
     </div>
-    {% end for %}
+    {% endfor %}
 <!-- End of Loop -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">

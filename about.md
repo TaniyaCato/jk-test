@@ -19,6 +19,23 @@ description: Get to know me!
     </div>
   </section>
 <body>
+<!-- Create a Loop -->
+    {% for block in site.date.news.story %}
+    <div class="cards">
+    <div class="card">
+        <div class="pic">
+        <img src="{{block.image}}" alt="{{block.image-alt}}">
+        </div>
+    <div class="content">
+    <h3 class="title">{{block.title}}</h3>
+    <h4>{{block.subtitle}}</h4>
+    <p>{{block.story-content}}</p>
+    <p><a href="{{block.tag-link}}">{{block.tag}}</a></p>
+    </div>
+    </div>
+    </div>
+    {% end for %}
+<!-- End of Loop -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -30,7 +47,7 @@ description: Get to know me!
 
     {% include head/favicon.html %}
     {% include head/styles.html %}
-
+    
   <!-- page container -->
   <div class="page-container">
     <!-- page header -->
@@ -38,16 +55,10 @@ description: Get to know me!
     <main class="page-content" role="main">
       <p> Feel free to reach out to me for an questions about sketching</p>
     </main>
-    <ul class="Socials">
-    <li class="Facebook"
-        <a class="nav-link" href="https://www.facebook.com/profile.php?id=100010409977036"/a> 
-    <li class="Twitter">
-        <a class="nav-link" href="https://twitter.com/TaniyaLynee"/a>
-    <li class="Instagram"
-        <a class="nav-link" href="https://www.instagram.com/taniyyaaa/?hl=en" /a>
-    </li>
-    </ul>
-   
+    {% for block in site.date.news.story %}
+    
+    
+
     <!-- page footer -->
     {% include footer.html %}
   </div>

@@ -1,0 +1,24 @@
+story:
+- image: "https://picsum.photos/200/200"
+  image-alt: Placeholder image 1
+  title: First Story Title
+  subtitle: First Story Subtitle
+  story-content: First story content 
+  tag-link: "https://google.com"
+  tag: Let's go to google
+
+- image: "https://picsum.photos/200/200"
+  image-alt: Placeholder image 1
+  title: Second Story Title
+  subtitle: Second Story Subtitle
+  story-content: Second story content 
+  tag-link: "https://google.com"
+  tag: Let's go to google
+
+- image: "https://picsum.photos/200/200"
+  image-alt: Placeholder image 1
+  title: Third Story Title
+  subtitle: Third Story Subtitle
+  story-content: Third story content 
+  tag-link: "https://google.com"
+  tag: Let's go to google

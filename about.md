@@ -19,23 +19,7 @@ description: Get to know me!
     </div>
   </section>
 <body>
-<!-- Create a Loop -->
-    {% for block in site.date.news.story %}
-    <div class="cards">
-    <div class="card">
-        <div class="pic">
-        <img src="{{block.image}}" alt="{{block.image-alt}}">
-        </div>
-    <div class="content">
-    <h3 class="title">{{block.title}}</h3>
-    <h4>{{block.subtitle}}</h4>
-    <p>{{block.story-content}}</p>
-    <p><a href="{{block.tag-link}}">{{block.tag}}</a></p>
-    </div>
-    </div>
-    </div>
-    {% endfor %}
-<!-- End of Loop -->
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">

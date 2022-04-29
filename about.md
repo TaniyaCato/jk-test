@@ -55,9 +55,6 @@ description: Get to know me!
     <main class="page-content" role="main">
       <p> Feel free to reach out to me for an questions about sketching</p>
     </main>
-    {% for block in site.date.news.story %}
-    
-    
 
     <!-- page footer -->
     {% include footer.html %}

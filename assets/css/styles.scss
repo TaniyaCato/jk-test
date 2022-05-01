@@ -28,12 +28,6 @@
  }
 
   
-    // Because flex properties aren't inherited, we need to redeclare these first
-    // few properties so that content nested within behave properly.
-      .container,
-      .container-fluid {
-      display: flex;
-    }
   
 
   body {
@@ -46,9 +40,6 @@
     text-align: center;
 }
 
-*, *::before, *::after {
-    box-sizing: border-box;
-}
 
 h1{
   color: orangered;
@@ -68,7 +59,8 @@ h1{
 }
 
 .col-md-8{
-  margin-right: 50px;
+  margin-right: 50%;
+  float: right;
 }
 
 

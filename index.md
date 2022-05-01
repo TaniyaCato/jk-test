@@ -21,12 +21,12 @@ descprition: This is my site
 <title> Sketched By Taniya </title>
 </head>
 <body>
-  <div class="container mt-2 mb-2">
+    <h1 class="title"> WELCOME TO MY SITE </h1>
+    <div class="container mt-2 mb-2">
     <div class="row">
       <div class="col-sm-8">
       </div>
     </div>
-        <h1 class="title"> WELCOME TO MY SITE </h1>
     <div class="row">
     <img src="aniya.jpeg" alt="Me" Width="400px"/>
       <div class="col-6 col-s-8">

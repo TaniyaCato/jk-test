@@ -24,7 +24,7 @@ descprition: This is my site
   <div class="container mt-2 mb-2">
     <div class="row">
       <div class="col-sm-8">
-        <h1>WELCOME TO MY SITE</h1>
+        <h1 class="title"> WELCOME TO MY SITE </h1>
       </div>
     </div>
     <div class="row">

@@ -18,7 +18,6 @@ descprition: This is my site
     </div>
   </section>
 <head>
-<title class="title"> Sketched By Taniya </title>
 </head>
 <body>
     <h1 class="title"> WELCOME TO MY SITE </h1>

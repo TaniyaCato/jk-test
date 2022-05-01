@@ -46,7 +46,6 @@ description: Get to know me!
             <li><a href="https://www.instagram.com/taniyyaaa/?hl=en">Instagram</a></li>
             <li><a href="https://twitter.com/TaniyaLynee">Twitter</a></li>
           </ul>
-        </nav>
       </div> 
 
     <!-- page footer -->

@@ -13,7 +13,7 @@ description: Get to know me!
       <h1 class="animated fadeInDownBig">{{ page.title | default: 'HOME' }}</h1>
       <p> Need To Get In Touch? </p>
         {%- include home-action-btn.html action_btn=action_btn dropdown=dropdown dropdown_items=dropdown_items -%}
-      {%- endif -%}
+      
 </head>
     </div>
   </section>

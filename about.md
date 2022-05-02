@@ -45,6 +45,7 @@ description: Get to know me!
             <li><a href="https://twitter.com/TaniyaLynee">Twitter</a></li>
           </ul>
       </div> 
+      </div>
 
     <!-- page footer -->
     {% include footer.html %}

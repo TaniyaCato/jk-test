@@ -36,8 +36,6 @@ description: Get to know me!
     <!-- page content -->
     <main class="page-content" role="main">
       <p> Feel free to reach out to me for an questions about sketching</p>
-    </main>
-    <div class="row">
       <div class="col-3 col-s-4">
           <ul>
             <li><a href="https://www.facebook.com/profile.php?id=100010409977036">Facebook</a></li>
@@ -45,7 +43,7 @@ description: Get to know me!
             <li><a href="https://twitter.com/TaniyaLynee">Twitter</a></li>
           </ul>
       </div> 
-      </div>
+    </main>
 
     <!-- page footer -->
     {% include footer.html %}
